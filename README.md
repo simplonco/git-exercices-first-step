@@ -1,13 +1,13 @@
 # Objectifs
 
-* Savoir versionner son code
+* Versionner son code
 * Avoir un compte github
-* Savoir revenir un état précédent d'un fichier ou répertoire.
-* Savoir envoyer son code versionner sur github
-* Savoir récupérer du code de github (au début et durant le développement)
-* Savoir créer des branches dans un projet versionner et savoir les fusionner
-* Savoir proposer une amélioration sur un projet d'une autre personne
-* Savoir utiliser github
+* Revenir un état précédent d'un fichier ou répertoire.
+* Envoyer son code versionner sur github
+* Récupérer du code de github (au début et durant le développement)
+* Créer des branches dans un projet versionner et savoir les fusionner
+* Proposer une amélioration sur un projet d'une autre personne
+* Utiliser github
 
 # Mes premiers pas avec git
 
