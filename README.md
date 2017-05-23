@@ -34,8 +34,8 @@ Après cette longue présentation il est temps de s'amuser !
 
 Entraînez-vous avec les commandes : [s'exercez](https://try.github.io/levels/1/challenges/1)
 
-Parce qu'e 'en groupe c'est mieux : [Git en groupe](https://github.com/simplonco/git-group-exercise), puis [Cadavre request](https://github.com/simplonco/cadavre-request)
+Parce qu'en groupe c'est mieux : [Git en groupe](https://github.com/simplonco/git-group-exercise), puis [Cadavre request](https://github.com/simplonco/cadavre-request)
 
 # Suppléments
 
-Si vous avez toujours pas compris, cette [vidéo](https://www.youtube.com/watch?v=V6Zo68uQPqE&t=0s) pourrait vous aider
+Si vous avez toujours pas compris, cette [vidéo](https://www.youtube.com/watch?v=V6Zo68uQPqE&t=0s) pourrait vous aider.
